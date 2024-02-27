@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-18T23:54:24.433898300Z</date>
+  <millis>1700351664433</millis>
+  <nanos>898300</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logger.LocalLogger</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>Тур було успішно оплачено</message>
+</record>
+<record>
+  <date>2023-11-18T23:54:24.438909900Z</date>
+  <millis>1700351664438</millis>
+  <nanos>909900</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logger.LocalLogger</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>Баланс користувача успішно оновлено в базі даних.</message>
+</record>
+<record>
+  <date>2023-11-18T23:54:24.445164Z</date>
+  <millis>1700351664445</millis>
+  <nanos>164000</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logger.LocalLogger</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>Тур успішно заброньовано.</message>
+</record>
+<record>
+  <date>2023-11-18T23:54:24.447179700Z</date>
+  <millis>1700351664447</millis>
+  <nanos>179700</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logger.LocalLogger</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>Тур успішно заброньовано!</message>
+</record>
+</log>
